@@ -1,7 +1,6 @@
    ###  🌟 About Me
    
-Hello, I am Bora. I am a 3rd year software engineering student. In this process, I decided to become an iOS Developer. I have improved myself with various educations and I am still improving. 
-I develop individual applications to learn continuously and stay up to date by following the latest trends.
+Hello, I am Bora, a final-year software engineering student with a specialization in iOS development. With a strong foundation in Swift and SwiftUI, I focus on building modern, user-friendly mobile applications. My experience includes integrating APIs, working with real-time data processing, and implementing AI-driven features to enhance user engagement. I take on individual projects to continuously improve and challenge myself, aiming to launch them in the market. My goal is to actively contribute as a developer in this industry and deliver innovative, effective solutions.
 
  
  * I’m currently learning Swift - SwiftUI
